@@ -2,7 +2,6 @@ theme: jekyll-theme-dinky
 title: IOTA Full Node Documentation
 email: nurielst@hotmail.com
 description: Documentation for IOTA Full Node Auto-Installer
-This installer includes IOTA Peer Manager and monitoring graphs.
 baseurl: /iri-playbook
 github_username: nuriel77
 mardown: kramdown
