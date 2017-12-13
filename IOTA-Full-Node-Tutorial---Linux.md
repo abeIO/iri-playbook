@@ -1,3 +1,10 @@
+---
+layout: page
+title: IOTA Full Node Tutorial   Linux
+wikiPageName: IOTA-Full-Node-Tutorial---Linux
+menu: wiki
+---
+
 ![IOTA](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Iota_logo.png/320px-Iota_logo.png)
 
 # Welcome to the IOTA Full Node Installation wiki!
