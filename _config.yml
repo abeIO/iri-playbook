@@ -1,7 +1,14 @@
 theme: jekyll-theme-dinky
 title: IOTA Full Node Documentation
 email: nurielst@hotmail.com
+author: Nuriel Shem-Tov
 description: Documentation for IOTA Full Node Auto-Installer
 baseurl: /iri-playbook
 github_username: nuriel77
 mardown: kramdown
+permalink: pretty
+social:
+  - title: twitter
+    url: https://twitter.com/nuriel77
+  - title: github
+    url: https://github.com/nuriel77
